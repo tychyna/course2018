@@ -1,0 +1,23 @@
+{
+	"name": "mario_course_work",
+	"version": "1.0.0",
+	"description": "Course work 2018",
+	"main": "index.js",
+	"scripts": {
+		"start": "serve ./public",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tychyna/course2018.git"
+	},
+	"author": "Tychyna Oleksandr",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/tychyna/course2018/issues"
+	},
+	"homepage": "https://github.com/tychyna/course2018#readme",
+	"dependencies": {
+		"serve": "^6.4.3"
+	}
+}
